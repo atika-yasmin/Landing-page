@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 1.6;
+}
+.sea-section{
+color:  #9b591bea;
+background-image: url("images/images\ \(1\).jfif");
+background-position: center;
+background-size: cover;
+height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.sea-section h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.sea-section p{
+    font-size: 20px;
+}
+#Read-button{
+color: ##926239;
+height: 50px;
+width: 130px;
+font-size: 20px;
+border: 2px solid #926239;
+border-radius: 10px;
+}
+#Read-button:hover{
+color: white;
+background-color:  #926239;
+}
+.sea-description-1{
+    color: white;
+    background-color: #926239;
+    height: 110px;
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.sea-description-2{
+    font-family: Arial;
+    color: #884f1aea;
+    background-color: #f4f4f4;
+    height: 110px;
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.container{
+    width: 33.3%;
+    float: left;
+    height: 105px;
+}
+#desc1{
+    color: white;
+    background-color:  #926239;
+    padding-top: 25px;
+}
+#desc2{
+    color: #926239;
+    background-color: white;
+    padding-top: 25px;
+    }
+#desc3{
+    color: white;
+    background-color: #926239;
+    padding-top: 25px;
+    }
